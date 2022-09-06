@@ -3,7 +3,7 @@
 <h1> <href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs Sʟᴀᴅᴇ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/spryslade/count.svg" />
+       <img align="middle" src="https://profile-counter.glitch.me/spryslade/count.svg" />
 </p>
 
 [<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/spryslade)
@@ -38,7 +38,7 @@ class S L A D E():
             'Windows 11', 'Windows 10', 'Windows 8.1', 'Windows 7', 'Windows XP'
         ]
  ```
-<h1> <img src = "https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+<h1> <href = "https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=spryslade&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/spryslade)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=spryslade&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/spryslade)
 
