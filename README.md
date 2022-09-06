@@ -6,7 +6,7 @@
  -->    <img align="left" src="https://profile-counter.glitch.me/spryslade/count.svg" />
 </p>
 
-[<href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/spryslade)
+[<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/spryslade)
 
 <h1> <href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/anon.webp" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
