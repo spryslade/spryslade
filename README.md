@@ -48,7 +48,7 @@ class S L A D E():
     
 <a href="https://open.spotify.com/user/dfrjnf1uxpkfzb2yes1mj9sqx?si=F7PO8_ALQrK5tTFp5Adskg&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset=""></a>
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/spryslade)
-[![Instagram](https://img.shields.io/badge/Instagram-E44dsada5F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/spryslade)
+[![Instagram](https://img.shields.io/badge/Instagram-Maroon?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/spryslade)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/spryslade)
   
 [<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/spryslade)
