@@ -1,14 +1,14 @@
 
 
-<h1> <img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs Sʟᴀᴅᴇ </h1>
+<h1> <href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs Sʟᴀᴅᴇ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="left" src="https://profile-counter.glitch.me/spryslade/count.svg" />
 </p>
 
-[<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/spryslade)
+[<href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/spryslade)
 
-<h1> <img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/anon.webp" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/anon.webp" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
 class S L A D E():
