@@ -50,6 +50,6 @@ class S L A D E():
 
 [<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/spryslade)
 
-<h1> <href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
+<h1> <img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="S L A D E Spotify" width="75%" />]()
