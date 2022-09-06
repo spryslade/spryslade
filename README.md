@@ -1,6 +1,6 @@
 
 
-<h1> <img src="https://github.com/spryslade/spryslade/blob/master/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs Sʟᴀᴅᴇ </h1>
+<h1> <img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs Sʟᴀᴅᴇ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/AnonymousR1025/count.svg" />
