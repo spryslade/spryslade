@@ -43,3 +43,13 @@ class S L A D E():
 [<img src="https://github-readme-stats.vercel.app/api?username=spryslade&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/spryslade)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=spryslade&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/spryslade)
 
 [<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/spryslade)
+    
+![Profile View Count](https://komarev.com/ghpvc/?username=spryslade)
+
+## <i>ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ</i>
+<a href="https://open.spotify.com/user/dfrjnf1uxpkfzb2yes1mj9sqx?si=F7PO8_ALQrK5tTFp5Adskg&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset=""></a>
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/spryslade)
+[![Instagram](https://img.shields.io/badge/Instagram-E44dsada5F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/spryslade)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/spryslade)
+  
+[<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/spryslade)
