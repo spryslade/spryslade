@@ -48,8 +48,8 @@ class S L A D E():
 
  [<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/telegram_icon.png" width="60px">](https://t.me/spryslade) [<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/github_icon.png" width="60px">](https://github.com/spryslade) [<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/discord_logo.png" width="60px">](https://discordapp.com/users/) [<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/c/spryslade)
 
-[<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/spryslade)
+[<href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/spryslade)
 
-<h1> <img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
+<h1> <href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="S L A D E Spotify" width="75%" />]()
