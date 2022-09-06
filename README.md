@@ -52,4 +52,4 @@ class S L A D E():
 
 <h1> <img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
-[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="S L A D E Spotify" width="75%" />](https://open.spotify.com/user/dfrjnf1uxpkfzb2yes1mj9sqx?si=RA4FN3D3RH24_O378HKoQg&utm_source=copy-link)
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="S L A D E Spotify" width="75%" />]()
