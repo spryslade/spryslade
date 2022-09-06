@@ -53,4 +53,7 @@ class S L A D E():
   
 [<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/spryslade)
 
-<h1> <href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/anon.webp" width="55px">  ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ</h1>
+<h1> <href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/anon.webp" width="55px">  sᴘᴏᴛɪғʏ</h1>
+    
+<a href="https://open.spotify.com/user/dfrjnf1uxpkfzb2yes1mj9sqx?si=pVC68Dc_Sn2xtUU52YNMuw&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
