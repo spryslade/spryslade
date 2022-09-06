@@ -52,3 +52,5 @@ class S L A D E():
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/spryslade)
   
 [<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/spryslade)
+
+<h1> <href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/anon.webp" width="55px">  ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ</h1>
