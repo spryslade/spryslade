@@ -1,6 +1,11 @@
 
 
 <h1> <href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/codes.webp" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs Sʟᴀᴅᴇ </h1>
+
+<p align="center">
+<img src="https://telegra.ph/file/e3e3a576a8cf7d62d1914.jpg">
+</p>
+
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
        <img align="middle" src="https://profile-counter.glitch.me/spryslade/count.svg" />
