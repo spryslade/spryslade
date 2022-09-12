@@ -38,9 +38,9 @@ class S L A D E():
         return [
             'Windows', 'Android'
         ]
-    def windows_os(self):
+    def Owned Organizations(self):
         return [
-            'Windows 11', 'Windows 10', 'Windows 8.1', 'Windows 7', 'Windows XP'
+            'Astor'
         ]
  ```
  [<img src="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/spryslade)
