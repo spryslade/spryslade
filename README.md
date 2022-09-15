@@ -1,6 +1,6 @@
 
 
-<h1> <href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/codes.webp" width="70px"> Hᴇʏ Tʜᴇʀᴇ, Tʜɪs Is Sʟᴀᴅᴇ☯😈 </h1>
+<h1> <href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/codes.webp" width="70px"> Hᴇʏ Tʜᴇʀᴇ, Tʜɪs Is Sʟᴀᴅᴇ☯ </h1>
 
 <p align="center">
 <img src="https://telegra.ph/file/398fee9f3c148e3b2eb51.jpg">
