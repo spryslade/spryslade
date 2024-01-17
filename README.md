@@ -16,9 +16,9 @@
 <h1> <href="https://github.com/spryslade/Slade-Git-Readme/blob/master/resources/anon.webp" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
-class S L A D E():
+class कृष्ण():
     def __init__(self):
-        self.name = ['S L A D E]
+        self.name = ['कृष्ण']
         self.country = ['India']
         self.language = ['हिंदी', 'English']
     def programming_languages(self):
